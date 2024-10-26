@@ -65,15 +65,15 @@ Below is a small guide on how to use the compiler, this part may be moved to the
 
 * Open the Tarball (tgz) file and open the file within using 7zip or similar, its the actual .tar file which contains the package.
 
-![IMG]()
+![IMG](https://raw.githubusercontent.com/risk-of-thunder/BurstsOfRain/refs/heads/main/Documentation/OpenTarball.png)
 
 * Open the ``Package`` folder, and locate the ``.Runtime`` folder, this ``.Runtime`` folder contains the BCL.exe, which contains the compiler.
 
-![IMG2]()
+![IMG2](https://raw.githubusercontent.com/risk-of-thunder/BurstsOfRain/refs/heads/main/Documentation/dotRuntimeFolderLocation.png)
 
 * Extract the contents of ``.Runtime`` to a folder you desire.
 
-![IMG3]()
+![IMG3](https://github.com/risk-of-thunder/BurstsOfRain/blob/main/Documentation/ExtractedFolder.png)
 
 You can write a .txt file that contains the necesary arguments for Burst compiling your assembly, below is an example of one.
 
