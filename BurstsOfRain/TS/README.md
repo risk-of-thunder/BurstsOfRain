@@ -73,7 +73,7 @@ Below is a small guide on how to use the compiler, this part may be moved to the
 
 * Extract the contents of ``.Runtime`` to a folder you desire.
 
-![IMG3](https://github.com/risk-of-thunder/BurstsOfRain/blob/main/Documentation/ExtractedFolder.png)
+![IMG3](https://raw.githubusercontent.com/risk-of-thunder/BurstsOfRain/refs/heads/main/Documentation/ExtractedFolder.png)
 
 You can write a .txt file that contains the necesary arguments for Burst compiling your assembly, below is an example of one.
 

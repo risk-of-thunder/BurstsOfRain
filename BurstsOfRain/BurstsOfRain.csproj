@@ -4,6 +4,8 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <Configurations>Debug;Release;NoWeaver</Configurations>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>TS\plugins\BurstsOfRain.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
