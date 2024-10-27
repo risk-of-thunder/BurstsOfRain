@@ -15,7 +15,7 @@ These assemblies should not cause issues on existing profiles.
 
 ## For Developers
 
-Bursts of Rain is used mainly as a front-end and ease of loading for Bust Assemblies utilizing ``BurstRuntime.LoadAdditionalLibrary``'s method, ``BurstsOfRainMain`` contains a method that can be used to simplify this process, by giving it your ``PluginInfo``, which serves as the start location, and a ``string``, which should be the name of the bursted assembly.
+Bursts of Rain is used mainly as a front-end and ease of loading for Burst Assemblies utilizing ``BurstRuntime.LoadAdditionalLibrary``'s method, ``BurstsOfRainMain`` contains a method that can be used to simplify this process, by giving it your ``PluginInfo``, which serves as the start location, and a ``string``, which should be the name of the bursted assembly.
 
     //Example
     public class MyModWithBurstedAssemblies : BaseUnityPlugin
